@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-07-22.md",
+                "file": "Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-22"
+              "title": "Vision"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-07-22.md",
+                "file": "Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-07-22 的反向链接列表"
+              "title": "Vision 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-07-22.md",
+                "file": "Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-07-22 的出链列表"
+              "title": "Vision 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-07-22.md",
+                "file": "Vision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-22 的大纲"
+              "title": "Vision 的大纲"
             }
           },
           {
@@ -196,9 +196,13 @@
   },
   "active": "735dfc4e9b2daeec",
   "lastOpenFiles": [
+    "Roadmap.md",
+    "Soul.md",
+    "README.md",
+    "Goals.md",
+    "Weekly/2026-07-20.md",
     "Daily/2026-07-22.md",
     "Daily/2026-07-21.md",
-    "未命名.base",
-    "Goals.md"
+    "未命名.base"
   ]
 }
