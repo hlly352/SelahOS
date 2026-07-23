@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision.md",
-                "mode": "source",
-                "source": false
+                "file": "Roadmap.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Vision"
+              "title": "Roadmap"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Vision 的反向链接列表"
+              "title": "Roadmap 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision.md",
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Vision 的出链列表"
+              "title": "Roadmap 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision.md",
+                "file": "Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vision 的大纲"
+              "title": "Roadmap 的大纲"
             }
           },
           {
@@ -196,12 +196,14 @@
   },
   "active": "735dfc4e9b2daeec",
   "lastOpenFiles": [
+    "Vision.md",
+    "Daily/2026-07-23.md",
+    "Daily/2026-07-22.md",
     "Roadmap.md",
     "Soul.md",
     "README.md",
     "Goals.md",
     "Weekly/2026-07-20.md",
-    "Daily/2026-07-22.md",
     "Daily/2026-07-21.md",
     "未命名.base"
   ]
