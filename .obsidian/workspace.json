@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Daily/2026-07-24.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "2026-07-24"
             }
           }
         ]
@@ -196,10 +196,15 @@
   },
   "active": "735dfc4e9b2daeec",
   "lastOpenFiles": [
-    "Vision.md",
+    "task_outputs/task-f1e0e1dbf5ad.md",
+    "task_outputs",
+    "Daily/2026-07-24.md",
+    "Knowledge/ai人生管理系统.md",
+    "Knowledge/esp32-s3-vs-esp32-c6给-ptl-项目选哪个更合适.md",
     "Daily/2026-07-23.md",
-    "Daily/2026-07-22.md",
     "Roadmap.md",
+    "Vision.md",
+    "Daily/2026-07-22.md",
     "Soul.md",
     "README.md",
     "Goals.md",
