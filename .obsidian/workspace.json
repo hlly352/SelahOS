@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-07-24.md",
+                "file": "Monthly/2026-07.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-24"
+              "title": "2026-07"
             }
           }
         ]
@@ -196,20 +196,33 @@
   },
   "active": "735dfc4e9b2daeec",
   "lastOpenFiles": [
+    "Weekly/2026-07-25.md",
+    "Monthly/2026-07.md",
+    "Weekly/2026-07-20.md",
+    "Daily/2026-07-24.md",
+    "Weekly/2026-07-19.md",
+    "Daily/2026-07-25.md",
+    "task_outputs/task-a37e5173f6f5.md",
+    "Knowledge/中国父母和子女平等吗.md",
+    "Knowledge/ptl.md",
+    "task_outputs/task-d4e153672ccf.md",
+    "Knowledge/esp32-s3-vs-esp32-c6给-ptl-项目选哪个更合适.md",
+    "Knowledge/ai人生管理系统.md",
+    "task_outputs/task-abfe97797192.md",
+    "task_outputs/task-99d9d4ff2448.md",
+    "task_outputs/task-b16b32e37b2f.md",
+    "Daily/2026-07-23.md",
+    "task_outputs/task-d8e361795fa9.md",
+    "task_outputs/task-9da8b69b1042.md",
+    "task_outputs/task-4c6f0284529d.md",
+    "task_outputs/task-43a748019ed5.md",
+    "task_outputs/task-4ef97cb8cba1.md",
     "task_outputs/task-f1e0e1dbf5ad.md",
     "task_outputs",
-    "Daily/2026-07-24.md",
-    "Knowledge/ai人生管理系统.md",
-    "Knowledge/esp32-s3-vs-esp32-c6给-ptl-项目选哪个更合适.md",
-    "Daily/2026-07-23.md",
     "Roadmap.md",
     "Vision.md",
     "Daily/2026-07-22.md",
     "Soul.md",
-    "README.md",
-    "Goals.md",
-    "Weekly/2026-07-20.md",
-    "Daily/2026-07-21.md",
     "未命名.base"
   ]
 }
