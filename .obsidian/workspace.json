@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2026-07.md",
+                "file": "Daily/2026-07-26.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07"
+              "title": "2026-07-26"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "735dfc4e9b2daeec",
   "lastOpenFiles": [
-    "Weekly/2026-07-25.md",
     "Monthly/2026-07.md",
+    "Daily/2026-07-26.md",
+    "task_outputs/task-d52111462281.md",
+    "Weekly/2026-07-25.md",
     "Weekly/2026-07-20.md",
     "Daily/2026-07-24.md",
     "Weekly/2026-07-19.md",
@@ -221,8 +223,6 @@
     "task_outputs",
     "Roadmap.md",
     "Vision.md",
-    "Daily/2026-07-22.md",
-    "Soul.md",
     "未命名.base"
   ]
 }
